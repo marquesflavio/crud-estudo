@@ -1,1 +1,0 @@
-SELECT Descricao FROM avaliacao_perguntas WHERE Id = 2
