@@ -1,0 +1,22 @@
+{
+    "produtos": [
+      {
+        "id": 1,
+        "nome": "Caneta",
+        "descricao": "Caneta azul",
+        "preco": 10.00
+      },
+      {
+        "id": 2,
+        "nome": "Lápis",
+        "descricao": "Lápis preto",
+        "preco": 5.00
+      },
+      {
+        "id": 3,
+        "nome": "Borracha",
+        "descricao": "Borracha branca",
+        "preco": 2.00
+      }
+    ]
+  }
