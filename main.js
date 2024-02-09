@@ -1,14 +1,7 @@
 
 const sql = require('mssql');
 
-const config = {
-    user: 'sa',
-    password: '324651',
-    server: 'DESKTOP-CN0EMF7',
-    options: {
-        encrypt: true, // Configuração necessária se estiver usando Azure
-    },
-}
+const config = ENV_CONFIG
 
 /*
     //Use Azure VM Managed Identity to connect to the SQL database
